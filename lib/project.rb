@@ -5,5 +5,5 @@ class Project
     @title = title
   end
 
-  
+
 end
